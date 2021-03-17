@@ -171,7 +171,7 @@
                                     ts.CharLeft(false, 10);
                                     break;
                                 case "<paramref>":
-                                    ts.CharLeft(false, 13);
+                                    ts.CharLeft(false, 3);
                                     break;
                                 case "<permission>":
                                     ts.CharLeft(false, 15);
